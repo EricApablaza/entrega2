@@ -1,1 +1,1 @@
-# entrega2 CoderHouse Curso React JS 2023
+# Entrega2 CoderHouse Curso React JS 2023
